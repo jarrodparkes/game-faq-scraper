@@ -3,7 +3,6 @@
   "description": "Scrape details from GameFaqs pages.",
   "version": "1.0.0",
   "dependencies": {
-    "puppeteer": "^1.10.0",
-    "request": "^2.88.0"
+    "puppeteer": "^1.10.0"
   }
 }
