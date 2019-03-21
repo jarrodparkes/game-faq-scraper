@@ -86,3 +86,8 @@ typings/
 # MAC
 # ===
 *.DS_Store
+
+# ================
+# GAME-FAQ-SCRAPER
+# ================
+game-details.txt
